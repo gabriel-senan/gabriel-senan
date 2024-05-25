@@ -30,8 +30,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/gabriel-senan/gabriel-senan/output/snake.svg" alt="Snake animation" />
 
 ###
